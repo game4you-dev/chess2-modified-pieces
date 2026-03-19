@@ -7,8 +7,8 @@ These pieces are based on the famous "Cburnett" SVG chess set, originally create
 
 ## Modifications Made
 To fit the visual style of Chess 2, the following modifications were made to the original files:
-* Color inversion (swapped black and white colors from the original black pieces).
-* Minor contour adjustments (e.g., modified the shape of the Queen).
+* **Color inversion:** Swapped black and white colors based on the original black pieces.
+* **Structural tweaks:** Various minor path and contour adjustments to the shapes of select pieces to refine their appearance.
 
 ## License
 In accordance with the ShareAlike condition of the original work, these modified assets are released under the **Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)** License.
