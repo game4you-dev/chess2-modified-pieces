@@ -6,9 +6,9 @@ This repository contains the modified chess pieces used in the Android game **Ch
 These pieces are based on the famous "Cburnett" SVG chess set, originally created by **Colin Burnett** and hosted on Wikimedia Commons.
 
 ## Modifications Made
-To fit the visual style of Chess 2, the following modifications were made to the original files:
+To fit the unique visual style of Chess 2, the following extensive modifications were made to the original files:
 * **Color inversion:** Swapped black and white colors based on the original black pieces.
-* **Structural tweaks:** Various minor path and contour adjustments to the shapes of select pieces to refine their appearance.
+* **Extensive structural redesign:** Substantial path and contour modifications were applied to *all* pieces. The shapes were heavily altered and redrawn to create a sharper, distinct silhouette while maintaining the core Cburnett foundation.
 * **Format conversion:** Converted the original SVG files into Android Vector Drawable (.xml) format for native use in the application.
 
 ## Note on Technical Implementation (Textures)
