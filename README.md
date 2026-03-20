@@ -8,7 +8,7 @@ These pieces are based on the famous "Cburnett" SVG chess set, originally create
 ## Modifications Made
 To fit the unique visual style of Chess 2, the following extensive modifications were made to the original files:
 * **Color inversion:** Swapped black and white colors based on the original black pieces.
-* **Extensive structural redesign:** Substantial path and contour modifications were applied to *all* pieces. The shapes were heavily altered and redrawn to create a sharper, distinct silhouette while maintaining the core Cburnett foundation.
+* **Extensive structural redesign:** The shapes and contours of the set were significantly altered and redrawn to create a distinct new design, while maintaining the core Cburnett forms.
 * **Format conversion:** Converted the original SVG files into Android Vector Drawable (.xml) format for native use in the application.
 
 ## Note on Technical Implementation (Textures)
