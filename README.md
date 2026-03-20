@@ -9,6 +9,11 @@ These pieces are based on the famous "Cburnett" SVG chess set, originally create
 To fit the visual style of Chess 2, the following modifications were made to the original files:
 * **Color inversion:** Swapped black and white colors based on the original black pieces.
 * **Structural tweaks:** Various minor path and contour adjustments to the shapes of select pieces to refine their appearance.
+* **Format conversion:** Converted the original SVG files into Android Vector Drawable (.xml) format for native use in the application.
+
+## Note on Technical Implementation (Textures)
+In the Chess 2 application, AI-generated textures are applied to these modified base shapes **dynamically at runtime via code**. 
+The textured pieces do not exist as pre-baked or pre-rendered image files in the game's assets. Therefore, the dynamic rendering code and the separate texture files are independent components and remain proprietary, functioning as a Collection alongside these CC BY-SA 3.0 vector XML shapes.
 
 ## License
 In accordance with the ShareAlike condition of the original work, these modified assets are released under the **Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)** License.
